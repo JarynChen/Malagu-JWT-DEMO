@@ -1,0 +1,8 @@
+targets:
+  - backend
+
+backend:
+  malagu:
+    security:
+      basic:
+        enabled: true
